@@ -16,7 +16,7 @@ Features:
 * Supports AJAXly loaded posts, 'infinite scroll' posts, etc.
 * Does not use additional databases / tables anymore. All reports are stored in postmeta.
 
-Plugin demo: http://wp.esiteq.com/wordpress-report-post-plugin-demo/
+Plugin demo: http://www.esiteq.com/projects/wordpress-report-post-plugin/
 
 # Installation
 
